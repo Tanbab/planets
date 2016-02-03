@@ -3,3 +3,4 @@ typed an extra sentence
 Can use up arrow in Git  to copy info from line above
 added changes online on GitHub
 testing another change and remembering to ckick on commit at bottom pf page
+another change
